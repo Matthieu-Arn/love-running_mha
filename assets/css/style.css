@@ -5,8 +5,8 @@
     box-sizing: border-box;
 }
 
-/* General Stules */
-.body {
+/* General Styles */
+body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
